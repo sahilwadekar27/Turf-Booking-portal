@@ -39,32 +39,7 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) web application t
 
 ---
 
-## 🖼️ Project Screenshots
 
-### 🏠 Home Page
-![Home Page](./images/home-page.png)
-
----
-
-### ⚽ Grounds Listing Page
-![Grounds Page](./images/grounds-page.png)
-
----
-
-### 📅 User Bookings Page
-![Check Bookings](./images/check-bookings.png)
-
----
-
-### 🔧 Admin Dashboard – Home
-![Admin Home](./images/admin-home.png)
-
----
-
-### 📋 Admin Dashboard – Bookings Overview
-![Admin Bookings](./images/admin-bookings.png)
-
----
 
 ## 📁 Project Structure
 
@@ -91,35 +66,4 @@ Turf-Booking-Portal/
 └── package.json
 
 ````
-
-## 🔮 Future Enhancements
-
-* 💳 Payment Gateway Integration (Stripe/Razorpay)
-* 📱 PWA Support for mobile experience
-* 🗺️ Map-based Turf Discovery (Google Maps API)
-* 📊 Real-time Admin Analytics & Graphs
-* 📩 Email/SMS Booking Confirmations
-
----
-
-## 🤝 Contributing
-
-Want to improve the project?
-
-1. Fork the repo
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add some feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request ✅
-
----
-
-## 👨‍💻 Author
-
-**Omkar Yelve**
-[GitHub Profile](https://github.com/OmkarYelve)
-
----
-
-> ⭐ If you like this project, consider starring the repo !
 
