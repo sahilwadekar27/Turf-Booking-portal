@@ -1,10 +1,5 @@
 # 🏟️ Turf Booking Portal
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OmkarYelve/Turf-Booking-Portal)
-![GitHub last commit](https://img.shields.io/github/last-commit/OmkarYelve/Turf-Booking-Portal)
-![GitHub issues](https://img.shields.io/github/issues/OmkarYelve/Turf-Booking-Portal)
-![GitHub forks](https://img.shields.io/github/forks/OmkarYelve/Turf-Booking-Portal?style=social)
-![GitHub stars](https://img.shields.io/github/stars/OmkarYelve/Turf-Booking-Portal?style=social)
 
 A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) web application that allows users to browse, book, and manage turf ground reservations with ease.
 
